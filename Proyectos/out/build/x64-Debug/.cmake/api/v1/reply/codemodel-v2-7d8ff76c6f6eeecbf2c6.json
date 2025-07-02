@@ -1,0 +1,151 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "CUDA",
+					"jsonFile" : "directory-CUDA-Debug-aad6b25deee1f29df580.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "CUDA",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "MPI",
+					"jsonFile" : "directory-MPI-Debug-454780edc8912d11f8b6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "MPI",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "MPIOMP",
+					"jsonFile" : "directory-MPIOMP-Debug-cf6505ad01ed00a9e86c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "MPIOMP",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "OMP",
+					"jsonFile" : "directory-OMP-Debug-632589e25f99d0499a97.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "OMP",
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "plantilla_cap",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "cuda_version::@5c14a75f849377796028",
+					"jsonFile" : "target-cuda_version-Debug-96ecc1396174af3c0281.json",
+					"name" : "cuda_version",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "mpi_omp_version::@ce9668618e752d6692bf",
+					"jsonFile" : "target-mpi_omp_version-Debug-84aad036128d048616e2.json",
+					"name" : "mpi_omp_version",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "mpi_version::@7cb64bc573d6efe3fd29",
+					"jsonFile" : "target-mpi_version-Debug-edc0bece03da7bb8ad95.json",
+					"name" : "mpi_version",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "omp_version::@0ecdae1dfecee0b5aa55",
+					"jsonFile" : "target-omp_version-Debug-4e0a912942e755a53958.json",
+					"name" : "omp_version",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/arodr/OneDrive/Escritorio/Universidad/CAP/Prac2/Prac2CAP/Proyectos/out/build/x64-Debug",
+		"source" : "C:/Users/arodr/OneDrive/Escritorio/Universidad/CAP/Prac2/Prac2CAP/Proyectos"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

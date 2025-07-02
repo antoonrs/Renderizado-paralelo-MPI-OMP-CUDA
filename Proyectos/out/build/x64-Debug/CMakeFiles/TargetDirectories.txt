@@ -1,0 +1,14 @@
+C:/Users/arodr/OneDrive/Escritorio/Universidad/CAP/Prac2/Prac2CAP/Proyectos/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/arodr/OneDrive/Escritorio/Universidad/CAP/Prac2/Prac2CAP/Proyectos/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/arodr/OneDrive/Escritorio/Universidad/CAP/Prac2/Prac2CAP/Proyectos/out/build/x64-Debug/CUDA/CMakeFiles/cuda_version.dir
+C:/Users/arodr/OneDrive/Escritorio/Universidad/CAP/Prac2/Prac2CAP/Proyectos/out/build/x64-Debug/CUDA/CMakeFiles/edit_cache.dir
+C:/Users/arodr/OneDrive/Escritorio/Universidad/CAP/Prac2/Prac2CAP/Proyectos/out/build/x64-Debug/CUDA/CMakeFiles/rebuild_cache.dir
+C:/Users/arodr/OneDrive/Escritorio/Universidad/CAP/Prac2/Prac2CAP/Proyectos/out/build/x64-Debug/MPI/CMakeFiles/mpi_version.dir
+C:/Users/arodr/OneDrive/Escritorio/Universidad/CAP/Prac2/Prac2CAP/Proyectos/out/build/x64-Debug/MPI/CMakeFiles/edit_cache.dir
+C:/Users/arodr/OneDrive/Escritorio/Universidad/CAP/Prac2/Prac2CAP/Proyectos/out/build/x64-Debug/MPI/CMakeFiles/rebuild_cache.dir
+C:/Users/arodr/OneDrive/Escritorio/Universidad/CAP/Prac2/Prac2CAP/Proyectos/out/build/x64-Debug/MPIOMP/CMakeFiles/mpi_omp_version.dir
+C:/Users/arodr/OneDrive/Escritorio/Universidad/CAP/Prac2/Prac2CAP/Proyectos/out/build/x64-Debug/MPIOMP/CMakeFiles/edit_cache.dir
+C:/Users/arodr/OneDrive/Escritorio/Universidad/CAP/Prac2/Prac2CAP/Proyectos/out/build/x64-Debug/MPIOMP/CMakeFiles/rebuild_cache.dir
+C:/Users/arodr/OneDrive/Escritorio/Universidad/CAP/Prac2/Prac2CAP/Proyectos/out/build/x64-Debug/OMP/CMakeFiles/omp_version.dir
+C:/Users/arodr/OneDrive/Escritorio/Universidad/CAP/Prac2/Prac2CAP/Proyectos/out/build/x64-Debug/OMP/CMakeFiles/edit_cache.dir
+C:/Users/arodr/OneDrive/Escritorio/Universidad/CAP/Prac2/Prac2CAP/Proyectos/out/build/x64-Debug/OMP/CMakeFiles/rebuild_cache.dir

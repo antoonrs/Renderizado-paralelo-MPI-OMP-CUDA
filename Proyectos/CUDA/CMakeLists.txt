@@ -1,0 +1,26 @@
+# Declarar ejecutable
+add_executable(cuda_version
+    main.cu
+	Camera.h
+	CollisionData.h
+	Crystalline.cu
+	Crystalline.h
+	Diffuse.h
+	Material.h
+	Metallic.cu
+	Metallic.h
+	Object.h
+	random.cu
+	random.h
+	Ray.h
+	raytracing.h
+	raytracing.cu
+	Scene.cu
+	Scene.h
+	Shape.h
+	Sphere.cu
+	Sphere.h
+	utils.cu
+	utils.h
+	Vec3.h
+)
